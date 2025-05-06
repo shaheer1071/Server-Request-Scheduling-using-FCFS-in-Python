@@ -56,6 +56,8 @@ The FCFS algorithm is implemented in Python using lists and basic control struct
 - `tabulate` – For neatly formatted console tables  
 
 ---
+**Sample Output**
+![image](https://github.com/user-attachments/assets/61211abb-32d7-4475-a6ea-7cea116203f1)
 
 ## 📊 Performance Metrics
 
